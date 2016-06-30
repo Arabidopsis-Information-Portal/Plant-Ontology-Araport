@@ -1,0 +1,16 @@
+{
+  "namespace" : "plant-ontology-app",
+  "name": "Plant Ontology Lookup",
+  "description": "Display results in table format from the Plant Ontology Database.",
+  "html": "app.html",
+  "scripts": [
+    "scripts/app.js"
+  ],
+  "styles": [
+    "styles/app.css"
+  ],
+  "tags": [
+    "arabidopsis", "ontology", "synonym"
+  ],
+  "icon": "app/images/logo.gif"
+}

@@ -1,8 +1,9 @@
 {
-  "name": "workshop-tutorial",
+  "name": "plant-ontology-app",
   "private": true,
   "dependencies": {
-    "DataTables": "~1.10.3",
-    "underscore": "~1.7.0"
+    "underscore": "~1.7.0",
+    "datatables.net": "^1.10.12",
+    "datatables.net-bs": "^1.10.12"
   }
 }
